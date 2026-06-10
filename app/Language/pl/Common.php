@@ -74,7 +74,7 @@ return [
     "search_options"                 => "Opcje wyszukiwania",
     "searched_for"                   => "Szukano",
     "software_short"                 => "OSPOS",
-    "software_title"                 => "Otwarto źródłowy punkt sprzedaży",
+    "software_title"                 => "Metis POS",
     "state"                          => "Status",
     "submit"                         => "Wyślij",
     "total_spent"                    => "Całkowite wydatki",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "Witamy",
     "welcome_message"                => "Witamy w OSPOS, kliknij moduł, aby rozpocząć.",
     "yes"                            => "",
-    "you_are_using_ospos"            => "You are using Open Source Point Of Sale version",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Kod pocztowy",
 ];

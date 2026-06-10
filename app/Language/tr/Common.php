@@ -74,7 +74,7 @@ return [
     "search_options"                 => "Arama seçenekleri",
     "searched_for"                   => "Şu arandı:",
     "software_short"                 => "OSPOS",
-    "software_title"                 => "Açık Kaynaklı Satış Noktası",
+    "software_title"                 => "Metis POS",
     "state"                          => "Bölge",
     "submit"                         => "Onayla",
     "total_spent"                    => "Toplam Harcama",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "Hoş Geldiniz",
     "welcome_message"                => "OSPOS'a hoş geldiniz, başlamak için modüle tıklayın.",
     "yes"                            => "",
-    "you_are_using_ospos"            => "Kullandığınız Open Source Point Of Sale sürümü",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Şehir Kodu",
 ];

@@ -74,7 +74,7 @@ return [
     "search_options"                 => "Opcije pretrage",
     "searched_for"                   => "Traženo",
     "software_short"                 => "OSPOS",
-    "software_title"                 => "Prodajno mjesto otvorenog koda",
+    "software_title"                 => "Metis POS",
     "state"                          => "Entitet",
     "submit"                         => "Prihvati",
     "total_spent"                    => "Ukupno potrošeno",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "Dobrodošli",
     "welcome_message"                => "Dobrodošli u OSPOS, kliknite na modul ispod da biste započeli.",
     "yes"                            => "",
-    "you_are_using_ospos"            => "",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Poštanski broj",
 ];

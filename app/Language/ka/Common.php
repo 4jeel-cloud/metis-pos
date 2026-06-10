@@ -74,7 +74,7 @@ return [
     "search_options"                 => "ძებნის მორგება",
     "searched_for"                   => "ვეძებდი",
     "software_short"                 => "OSPOS",
-    "software_title"                 => "Open Source Point of Sale",
+    "software_title"                 => "Metis POS",
     "state"                          => "შტატი",
     "submit"                         => "Submit",
     "total_spent"                    => "Total Spent",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "მოგესალმებით",
     "welcome_message"                => "Welcome to OSPOS, click a module below to get started.",
     "yes"                            => "დიახ",
-    "you_are_using_ospos"            => "",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Postal Code",
 ];

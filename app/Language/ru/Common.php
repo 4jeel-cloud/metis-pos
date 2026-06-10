@@ -74,7 +74,7 @@ return [
     "search_options"                 => "Параметры поиска",
     "searched_for"                   => "Найдено",
     "software_short"                 => "",
-    "software_title"                 => "Система управления продажами с открытым исходным кодом",
+    "software_title"                 => "Metis POS",
     "state"                          => "Регион",
     "submit"                         => "Сохранить",
     "total_spent"                    => "Всего потрачено",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "Добро пожаловать",
     "welcome_message"                => "Добро пожаловать в OSPOS, нажмите на модули ниже, чтобы начать.",
     "yes"                            => "",
-    "you_are_using_ospos"            => "Вы использоваете Open Source Point Of Sale Версия",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Почтовый индекс",
 ];

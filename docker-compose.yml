@@ -3,7 +3,9 @@ include:
 
 services:
     ospos:
-        image: jekkos/opensourcepos:master
+        build:
+            context: .
+            target: ospos
         restart: always
         depends_on:
             - mysql
@@ -14,6 +16,14 @@ services:
         volumes:
             - uploads:/app/public/uploads
             - logs:/app/writable/logs
+            - ./public/images:/app/public/images
+            - ./.env:/app/.env
+            - ./app/Views:/app/app/Views
+            - ./app/Language:/app/app/Language
+            - ./app/Controllers:/app/app/Controllers
+            - ./app/Config/Email.php:/app/app/Config/Email.php
+            - ./app/Config/App.php:/app/app/Config/App.php
+            - ./app/Database/Migrations/sqlscripts:/app/app/Database/Migrations/sqlscripts
         environment:
             - CI_ENVIRONMENT=production
             - ALLOWED_HOSTNAMES=localhost

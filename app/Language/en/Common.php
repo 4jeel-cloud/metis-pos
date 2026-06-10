@@ -73,8 +73,8 @@ return [
     "search"                         => "Search",
     "search_options"                 => "Search options",
     "searched_for"                   => "Searched for",
-    "software_short"                 => "OSPOS",
-    "software_title"                 => "Open Source Point of Sale",
+    "software_short"                 => "Metis",
+    "software_title"                 => "Metis POS",
     "state"                          => "State",
     "submit"                         => "Submit",
     "total_spent"                    => "Total Spent",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "Welcome",
     "welcome_message"                => "Welcome to OSPOS, click a module below to get started.",
     "yes"                            => "Yes",
-    "you_are_using_ospos"            => "",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Postal Code",
 ];

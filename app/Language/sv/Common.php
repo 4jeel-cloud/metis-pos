@@ -74,7 +74,7 @@ return [
     "search_options"                 => "Sökalternativ",
     "searched_for"                   => "Sök efter",
     "software_short"                 => "OSPOS",
-    "software_title"                 => "Point of Sale med öppen källkod",
+    "software_title"                 => "Metis POS",
     "state"                          => "Län",
     "submit"                         => "Spara",
     "total_spent"                    => "Totalt spenderat",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "Välkommen",
     "welcome_message"                => "Välkommen till OSPOS, klicka på en modul nedan för att komma igång.",
     "yes"                            => "Ja",
-    "you_are_using_ospos"            => "Du använder Open Source Point of Sale version",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "Postnummer",
 ];

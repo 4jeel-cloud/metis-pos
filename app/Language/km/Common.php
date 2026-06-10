@@ -74,7 +74,7 @@ return [
     "search_options"                 => "ជម្រើសស្វែងរក",
     "searched_for"                   => "ស្វែងរក",
     "software_short"                 => "",
-    "software_title"                 => "ប្រព័ន្ធគ្រប់គ្រងការលក់ដូរ",
+    "software_title"                 => "Metis POS",
     "state"                          => "រដ្ឋ",
     "submit"                         => "បញ្ជូន",
     "total_spent"                    => "ចំណាយសរុប",
@@ -84,6 +84,6 @@ return [
     "welcome"                        => "សូមស្វាគមន៍",
     "welcome_message"                => "សូមស្វាគមន៍មកកាន់ OSPOS, សូមចុចលើម៉ូឌុលខាងក្រោមដើម្បីចាប់ផ្តើម",
     "yes"                            => "",
-    "you_are_using_ospos"            => "",
+    "you_are_using_ospos"            => "Metis POS",
     "zip"                            => "កូដប្រៃសណីយ៍",
 ];
